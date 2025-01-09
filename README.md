@@ -6,4 +6,4 @@ These assets are provided under a custom license:
 - Cannot be sold or redistributed as standalone products.
 - Attribution is appreciated but not required.
 
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](License) file for details.
