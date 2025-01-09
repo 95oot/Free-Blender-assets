@@ -1,1 +1,1 @@
-These assets are free tor use and you can do anything with them exept directly sell the.
+These assets are free tor use and you can do anything with them except directly sell the.
